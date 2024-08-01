@@ -6,7 +6,8 @@ Relatively minimal configuration that will eventually be updated and upgraded as
 
 | Name | Notes |
 --- | ---
-Hello | test
+Treesitter | Treesitter allows me to have nice syntax highlighting for the editor.
+
 
 
 
