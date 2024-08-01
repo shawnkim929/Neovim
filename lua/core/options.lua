@@ -1,5 +1,5 @@
 
-
+vim.api.nvim_set_option("clipboard", "unnamed") -- Adding to clipboard outside of neovim
 
 require("rose-pine").setup({
     variant = "auto", -- auto, main, moon, or dawn
