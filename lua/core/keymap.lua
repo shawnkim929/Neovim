@@ -27,7 +27,5 @@ vim.api.nvim_set_option("clipboard", "unnamed") -- Adding to clipboard outside o
 -- vim.cmd("colorscheme rose-pine-dawn")
 --
 --
-
-
-
+--
 
