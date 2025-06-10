@@ -21,10 +21,12 @@ vim.opt.undofile = true
 vim.opt.undodir = vim.fn.stdpath('config') .. '/undo' -- Where the undo history is stored. By default (to my knowledge) vim doesn't keep record of undos after a single editing session. Delete this line if you feel like you don't want this feature.
 
 vim.api.nvim_set_option("clipboard", "unnamed") -- Adding to clipboard outside of neovim
--- vim.cmd("colorscheme industry")
+--vim.cmd("colorscheme habamax")
+vim.cmd("set termguicolors")
 -- vim.cmd("colorscheme rose-pine-main")
 -- vim.cmd("colorscheme rose-pine-moon")
 -- vim.cmd("colorscheme rose-pine-dawn")
+--
 --
 --
 --
