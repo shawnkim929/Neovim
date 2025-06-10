@@ -1,6 +1,6 @@
 -- with extras
 return {
-    'freddiehaddad/feline.nvim',
+    'famiu/feline.nvim',
     opts = {},
     config = function(_, opts)
         require('feline').setup()
